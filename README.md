@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cirubyankabagurhi Njuci Meschack-Augustin</h1>
-<h3 align="center">A passionate back-end developer from DRC, Bukavu</h3>
+<h3 align="center">A passionate back-end developer and IA Enthousiast from DRC, Bukavu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njuci&label=Profile%20views&color=0e75b6&style=flat" alt="njuci" /> </p>
 
